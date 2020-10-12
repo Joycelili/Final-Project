@@ -1,2 +1,2 @@
 # Final-Project
- Intestinal Protozoan Finder
+Protozoan Finder
