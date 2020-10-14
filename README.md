@@ -1,7 +1,5 @@
 # Final-Project
-<<<<<<< HEAD
- Intestinal Protozoan Finder
-=======
+
 CatDog Classifier
 ![Marketing Business Corporate Start-up Facebook Cover](https://user-images.githubusercontent.com/66042132/95922291-3be36f00-0db3-11eb-985b-eed744e7807d.png)
 <h1>Api Clasificadora de Perros y Gatos</h1>
