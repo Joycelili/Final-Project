@@ -33,5 +33,5 @@ Da la bienvenida a la Api desde pythonanywhere.
 
 <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html" target="_blank">KNeighborsClassifier</a> 
 
-<h2>·Apredizaje: Desarrollo de modelos de predicción y fusión con API's a través de Flask y pythonwhere</h2>
->>>>>>> 476ab9b2153e9529710db3b6ca95c33d2a76af3d
+<h2>·Apredizaje: </h2>
+Desarrollo de modelos de predicción y fusión con API's a través de Flask y pythonwhere
