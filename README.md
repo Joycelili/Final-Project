@@ -1,7 +1,5 @@
-# Final-Project
-
-CatDog Classifier
 ![Marketing Business Corporate Start-up Facebook Cover](https://user-images.githubusercontent.com/66042132/95922291-3be36f00-0db3-11eb-985b-eed744e7807d.png)
+# Final-Project
 <h1>Api Clasificadora de Perros y Gatos</h1>
 
 El objetivo principal de este proyecto fué desarrollar una API en la cual pudiesemos predecir si la imagen entregada por el usuario pertenece a un perro o a un gato, sin importar la raza del mismo.
@@ -33,5 +31,5 @@ Da la bienvenida a la Api desde pythonanywhere.
 
 <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html" target="_blank">KNeighborsClassifier</a> 
 
-<h2>·Apredizaje: </h2>
-Desarrollo de modelos de predicción y fusión con API's a través de Flask y pythonwhere
+<h2>·Apredizaje: Desarrollo de modelos de predicción y fusión con API's a través de Flask y pythonwhere </h2>
+
